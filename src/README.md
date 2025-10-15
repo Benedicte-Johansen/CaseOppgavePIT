@@ -21,6 +21,13 @@ henter ut alle bilene. Deretter laget jeg metodene som hentet dataen som ble spe
 For å teste at metodene hentet ut riktig data brukte jeg localhost, men da jeg skulle teste post metoden min, valgte jeg
 å bruke Postman på web. Her så jeg at metoden endret de riktige attributtene som jeg ønsket.
 
+# Til ettertanke
+Til neste oppgave hvor jeg får beskjed om at jeg skal skrive tester vil jeg trolig forsøke å arbeide mer med test driven
+development metodikk. Dette tenker jeg fordi jeg i etterkant synes det var vanskelig å skrive tester som hadde god nok
+testdekning.
+
+For å finne ut av hvilke tester jeg ville lage måtte jeg tenke tilbake til testingen psykologi. 
+
 # Veien videre
 Videre ville jeg endret "endreStatus"-metoden slik at denne kan ta mot input fra brukeren for å endre status og oppdrag.
 
