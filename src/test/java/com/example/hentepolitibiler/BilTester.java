@@ -10,8 +10,12 @@ public class BilTester {
     @Test
     void bilNotNull(){
         Bil enBil = new Bil();
-        assertNotNull(enBil, "En bil bør ikke være tom");
+        assertNotNull(enBil, "En bil kan ikke være null");
     }
 
-
+    @Test
+    void bilIdNotNull(){
+        Bil enBil = new Bil();
+        assertNotNull(enBil, "Bil-Id kan ikke være null");
+    }
 }
