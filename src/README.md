@@ -26,8 +26,8 @@ Til neste oppgave hvor jeg får beskjed om at jeg skal skrive tester vil jeg tro
 development metodikk. Dette tenker jeg fordi jeg i etterkant synes det var vanskelig å skrive tester som hadde god nok
 testdekning.
 
-For å finne ut av hvilke tester jeg ville lage måtte jeg tenke tilbake til testingen psykologi. 
 
 # Veien videre
 Videre ville jeg endret "endreStatus"-metoden slik at denne kan ta mot input fra brukeren for å endre status og oppdrag.
 
+Jeg ville også lagt til flere tester. 
