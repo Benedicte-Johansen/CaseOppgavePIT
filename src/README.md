@@ -30,4 +30,4 @@ testdekning.
 # Veien videre
 Videre ville jeg endret "endreStatus"-metoden slik at denne kan ta mot input fra brukeren for å endre status og oppdrag.
 
-Jeg ville også lagt til flere tester. 
+Jeg ville også lagt til flere tester. Blant annet en test som tester at man får riktig bil med en spesifikk id.
